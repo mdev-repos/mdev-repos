@@ -41,7 +41,7 @@
     <tr>
       <td>
         <h3>ECO Sistema</h3>
-        <a href="https://github.com/mdev-repos/EcoSistema-WebApp-v01"><img src="https://github.com/mdev-repos/mdev-repos/assets/ECOSistema-03.png" alt="Project Screenshot"></a>
+        <a href="https://github.com/mdev-repos/EcoSistema-WebApp-v01"><img src="https://github.com/mdev-repos/mdev-repos/blob/main/assets/ECOSistema-03.png" alt="Project Screenshot"></a>
         <br/>
         <a href="https://github.com/mdev-repos/EcoSistema-WebApp-v01">GitHub Repo</a> | 
         <a href="#">Live Demo: No disponible</a>
