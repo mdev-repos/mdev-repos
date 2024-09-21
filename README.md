@@ -31,10 +31,10 @@
 ## Projects 🚀
 
 <div align="center">
-  <table>
+  <table border="0" cellpadding="15"> <!-- Eliminamos los bordes y agregamos más espaciado -->
     <tr>
       <td>
-        <div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; width: 250px; text-align: center;">
+        <div style="border: 0px; border-radius: 10px; padding: 20px; width: 250px; text-align: center;"> <!-- Borde transparente -->
           <h3>ECO Sistema</h3>
           <a href="https://github.com/mdev-repos/EcoSistema-WebApp-v01">
             <img src="https://github.com/mdev-repos/mdev-repos/blob/main/assets/ECOSistema-00.png" alt="Project Screenshot" style="width: 200px; height: 200px; object-fit: cover; border-radius: 10px;">
@@ -49,7 +49,7 @@
         </div>
       </td>
       <td>
-        <div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; width: 250px; text-align: center;">
+        <div style="border: 0px; border-radius: 10px; padding: 20px; width: 250px; text-align: center;">
           <h3>Nativo</h3>
           <a href="https://github.com/igrowker/i003-nativo-back">
             <img src="https://github.com/mdev-repos/mdev-repos/blob/main/assets/Nativo-01.png" alt="Project Screenshot" style="width: 200px; height: 200px; object-fit: cover; border-radius: 10px;">
@@ -64,7 +64,7 @@
         </div>
       </td>
       <td>
-        <div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; width: 250px; text-align: center;">
+        <div style="border: 0px; border-radius: 10px; padding: 20px; width: 250px; text-align: center;">
           <h3>Bazar (TodoCode)</h3>
           <a href="https://github.com/mdev-repos/bazar-API-CourseProject">
             <img src="https://github.com/mdev-repos/mdev-repos/blob/main/assets/BazarTodoCode-00.png" alt="Project Screenshot" style="width: 200px; height: 200px; object-fit: cover; border-radius: 10px;">
@@ -82,13 +82,12 @@
   </table>
 </div>
 
-
 ---
 
 ## GitHub Analytics 📊
 
 <div align="center">
-  <table>
+  <table border="0" cellpadding="15"> <!-- Eliminamos bordes y agregamos espacio -->
     <tr>
       <!-- Métrica de GitHub Stats -->
       <td>
@@ -105,7 +104,6 @@
     </tr>
   </table>
 </div>
-
 
 <!-- Puedes explorar más métricas en: https://github.com/anuraghazra/github-readme-stats -->
 
