@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/mdev-repos?tab=followers">
-    <img src="https://img.shields.io/github/followers/tu-usuario?label=GitHub%20Followers&style=flat-square" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/mdev-repos?label=GitHub%20Followers&style=flat-square" alt="GitHub Followers" />
   </a>
   <!-- Puedes agregar más badges según tus preferencias -->
 </div>
@@ -41,9 +41,9 @@
     <tr>
       <td>
         <h3>ECO Sistema</h3>
-        <a href="https://link-to-project.com"><img src="https://via.placeholder.com/150" alt="Project Screenshot"></a>
+        <a href="https://github.com/mdev-repos/EcoSistema-WebApp-v01"><img src="https://via.placeholder.com/150" alt="Project Screenshot"></a>
         <br/>
-        <a href="https://github.com/tu-repo/project1">GitHub Repo</a> | 
+        <a href="https://github.com/mdev-repos/EcoSistema-WebApp-v01">GitHub Repo</a> | 
         <a href="https://link-to-deploy.com">Live Demo</a>
       </td>
       <td>
