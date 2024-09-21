@@ -48,7 +48,7 @@
       </td>
       <td>
         <h3>Nativo</h3>
-        <a href="https://link-to-project.com"><img src="https://via.placeholder.com/150" alt="Project Screenshot"></a>
+        <a href="https://link-to-project.com"><img src="https://github.com/mdev-repos/mdev-repos/blob/main/assets/Nativo-01.png" alt="Project Screenshot"></a>
         <br/>
         <a href="#">GitHub Repo: en Desarrollo</a> | 
         <a href="#">Live Demo: No disponible</a>
