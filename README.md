@@ -35,31 +35,39 @@
 ## Projects 🚀
 
 <div align="center">
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; width: 250px; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-      <h3>ECO Sistema</h3>
-      <a href="https://github.com/mdev-repos/EcoSistema-WebApp-v01"><img src="https://github.com/mdev-repos/mdev-repos/blob/main/assets/ECOSistema-03.png" alt="Project Screenshot" style="width: 100%; border-radius: 10px;"></a>
-      <br/>
-      <a href="https://github.com/mdev-repos/EcoSistema-WebApp-v01">
-        <img src="https://img.shields.io/badge/GitHub%20Repo-FF5722?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo" />
-      </a>
-      <a href="#">
-        <img src="https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=rocket&logoColor=white" alt="Live Demo" />
-      </a>
-    </div>
-    
-    <div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; width: 250px; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-      <h3>Nativo</h3>
-      <a href="https://link-to-project.com"><img src="https://github.com/mdev-repos/mdev-repos/blob/main/assets/Nativo-01.png" alt="Project Screenshot" style="width: 100%; border-radius: 10px;"></a>
-      <br/>
-      <a href="#">
-        <img src="https://img.shields.io/badge/GitHub%20Repo-FF5722?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo" />
-      </a>
-      <a href="#">
-        <img src="https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=rocket&logoColor=white" alt="Live Demo" />
-      </a>
-    </div>
-  </div>
+  <table>
+    <tr>
+      <!-- Primer proyecto -->
+      <td style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; text-align: center; width: 250px;">
+        <h3>ECO Sistema</h3>
+        <a href="https://github.com/mdev-repos/EcoSistema-WebApp-v01">
+          <img src="https://github.com/mdev-repos/mdev-repos/blob/main/assets/ECOSistema-03.png" alt="Project Screenshot" style="width: 200px; height: 150px; object-fit: cover; border-radius: 10px;">
+        </a>
+        <br/><br/>
+        <a href="https://github.com/mdev-repos/EcoSistema-WebApp-v01">
+          <img src="https://img.shields.io/badge/GitHub%20Repo-FF5722?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo" />
+        </a>
+        <a href="#">
+          <img src="https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=rocket&logoColor=white" alt="Live Demo" />
+        </a>
+      </td>
+
+      <!-- Segundo proyecto -->
+      <td style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; text-align: center; width: 250px;">
+        <h3>Nativo</h3>
+        <a href="https://link-to-project.com">
+          <img src="https://github.com/mdev-repos/mdev-repos/blob/main/assets/Nativo-01.png" alt="Project Screenshot" style="width: 200px; height: 150px; object-fit: cover; border-radius: 10px;">
+        </a>
+        <br/><br/>
+        <a href="#">
+          <img src="https://img.shields.io/badge/GitHub%20Repo-FF5722?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo" />
+        </a>
+        <a href="#">
+          <img src="https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=rocket&logoColor=white" alt="Live Demo" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 
