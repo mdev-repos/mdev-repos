@@ -41,17 +41,17 @@
     <tr>
       <td>
         <h3>ECO Sistema</h3>
-        <a href="https://github.com/mdev-repos/EcoSistema-WebApp-v01"><img src="https://via.placeholder.com/150" alt="Project Screenshot"></a>
+        <a href="https://github.com/mdev-repos/EcoSistema-WebApp-v01"><img src="https://github.com/mdev-repos/mdev-repos/blob/main/assets/ECOSistema-03.png" alt="Project Screenshot"></a>
         <br/>
         <a href="https://github.com/mdev-repos/EcoSistema-WebApp-v01">GitHub Repo</a> | 
-        <a href="https://link-to-deploy.com">Live Demo</a>
+        <a href="#">Live Demo: No disponible</a>
       </td>
       <td>
         <h3>Nativo</h3>
         <a href="https://link-to-project.com"><img src="https://via.placeholder.com/150" alt="Project Screenshot"></a>
         <br/>
-        <a href="https://github.com/tu-repo/project2">GitHub Repo</a> | 
-        <a href="https://link-to-deploy.com">Live Demo</a>
+        <a href="#">GitHub Repo: en Desarrollo</a> | 
+        <a href="#">Live Demo: No disponible</a>
       </td>
     </tr>
     <!-- Puedes agregar más proyectos aquí -->
