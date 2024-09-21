@@ -87,11 +87,25 @@
 
 ## GitHub Analytics 📊
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdev-repos&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdev-repos&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdev-repos&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <!-- Métrica de GitHub Stats -->
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=mdev-repos&show_icons=true&theme=radical" alt="GitHub Stats" />
+      </td>
+      <!-- Métrica de Streak -->
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdev-repos&theme=radical" alt="GitHub Streak" />
+      </td>
+      <!-- Métrica de Lenguajes -->
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdev-repos&layout=compact&theme=radical" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 <!-- Puedes explorar más métricas en: https://github.com/anuraghazra/github-readme-stats -->
 
