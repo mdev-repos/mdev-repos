@@ -34,29 +34,34 @@
 
 ## Projects 🚀
 
-<!-- Aquí te sugiero un diseño simple pero elegante para los proyectos -->
-
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <h3>ECO Sistema</h3>
-        <a href="https://github.com/mdev-repos/EcoSistema-WebApp-v01"><img src="https://github.com/mdev-repos/mdev-repos/blob/main/assets/ECOSistema-03.png" alt="Project Screenshot"></a>
-        <br/>
-        <a href="https://github.com/mdev-repos/EcoSistema-WebApp-v01">GitHub Repo</a> | 
-        <a href="#">Live Demo: No disponible</a>
-      </td>
-      <td>
-        <h3>Nativo</h3>
-        <a href="https://link-to-project.com"><img src="https://github.com/mdev-repos/mdev-repos/blob/main/assets/Nativo-01.png" alt="Project Screenshot"></a>
-        <br/>
-        <a href="#">GitHub Repo: en Desarrollo</a> | 
-        <a href="#">Live Demo: No disponible</a>
-      </td>
-    </tr>
-    <!-- Puedes agregar más proyectos aquí -->
-  </table>
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; width: 250px; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+      <h3>ECO Sistema</h3>
+      <a href="https://github.com/mdev-repos/EcoSistema-WebApp-v01"><img src="https://github.com/mdev-repos/mdev-repos/blob/main/assets/ECOSistema-03.png" alt="Project Screenshot" style="width: 100%; border-radius: 10px;"></a>
+      <br/>
+      <a href="https://github.com/mdev-repos/EcoSistema-WebApp-v01">
+        <img src="https://img.shields.io/badge/GitHub%20Repo-FF5722?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo" />
+      </a>
+      <a href="#">
+        <img src="https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=rocket&logoColor=white" alt="Live Demo" />
+      </a>
+    </div>
+    
+    <div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; width: 250px; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+      <h3>Nativo</h3>
+      <a href="https://link-to-project.com"><img src="https://github.com/mdev-repos/mdev-repos/blob/main/assets/Nativo-01.png" alt="Project Screenshot" style="width: 100%; border-radius: 10px;"></a>
+      <br/>
+      <a href="#">
+        <img src="https://img.shields.io/badge/GitHub%20Repo-FF5722?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo" />
+      </a>
+      <a href="#">
+        <img src="https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=rocket&logoColor=white" alt="Live Demo" />
+      </a>
+    </div>
+  </div>
 </div>
+
 
 ---
 
