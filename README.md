@@ -63,6 +63,21 @@
           </a>
         </div>
       </td>
+      <td>
+        <div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; width: 250px; text-align: center;">
+          <h3>Bazar (TodoCode)</h3>
+          <a href="https://github.com/mdev-repos/bazar-API-CourseProject">
+            <img src="https://github.com/mdev-repos/mdev-repos/blob/main/assets/Nativo-01.png" alt="Project Screenshot" style="width: 200px; height: 200px; object-fit: cover; border-radius: 10px;">
+          </a>
+          <br/><br/>
+          <a href="#">
+            <img src="https://img.shields.io/badge/GitHub%20Repo-FF5722?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo" />
+          </a>
+          <a href="#">
+            <img src="https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=rocket&logoColor=white" alt="Live Demo" />
+          </a>
+        </div>
+      </td>
     </tr>
   </table>
 </div>
