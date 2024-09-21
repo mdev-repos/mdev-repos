@@ -37,7 +37,7 @@
         <div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; width: 250px; text-align: center;">
           <h3>ECO Sistema</h3>
           <a href="https://github.com/mdev-repos/EcoSistema-WebApp-v01">
-            <img src="https://github.com/mdev-repos/mdev-repos/blob/main/assets/ECOSistema-03.png" alt="Project Screenshot" style="width: 200px; height: 200px; object-fit: cover; border-radius: 10px;">
+            <img src="https://github.com/mdev-repos/mdev-repos/blob/main/assets/ECOSistema-00.png" alt="Project Screenshot" style="width: 200px; height: 200px; object-fit: cover; border-radius: 10px;">
           </a>
           <br/><br/>
           <a href="https://github.com/mdev-repos/EcoSistema-WebApp-v01">
