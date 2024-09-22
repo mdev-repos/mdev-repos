@@ -18,13 +18,26 @@
 
 ## About me 👨‍💻
 
-- 🖥️ **Backend Software Developer**
+<p align="center">**Backend Software Developer**</p>
+
 - 💻 **Java / Spring Boot** for powerful and scalable applications
 - 🗄️ **Database Management Systems**: MySQL / MariaDB / PostgreSQL
 - 📚 **ORM**: Hibernate JPA for database management
 - 🛠️ **Version Control**: Git (GitHub, Gitea)
 - 🔍 **API Testing**: Postman
 - 🤝 **Teamwork Tools**: Trello, GitHub Projects
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,maven,mysql,postgres,hibernate,git,github,postman,idea,windows,linux,ubuntu" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,html,js,cpp,cs,vscode,visualstudio" />
+  </a>
+</p>
 
 ---
 
