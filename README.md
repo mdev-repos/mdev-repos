@@ -1,4 +1,4 @@
-## <div align="center">Hi! I'm Matias 👋</div>
+## <div align="center">Hi!👋 I'm Matias </div>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/68b71ec1-eeb9-42b0-8da5-867f89554098" alt="Banner" />
@@ -117,30 +117,6 @@
 
 </p>        
 <!--- stats (end) -->
-
-
-
-<div align="center">
-  <table border="0" cellpadding="15"> <!-- Eliminamos bordes y agregamos espacio -->
-    <tr>
-      <!-- Métrica de GitHub Stats -->
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=mdev-repos&show_icons=true&theme=radical" alt="GitHub Stats" />
-      </td>
-      <!-- Métrica de Streak -->
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdev-repos&theme=radical" alt="GitHub Streak" />
-      </td>
-      <!-- Métrica de Lenguajes -->
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdev-repos&layout=compact&theme=radical" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- Puedes explorar más métricas en: https://github.com/anuraghazra/github-readme-stats -->
-
 
 <!--
 **mdev-repos/mdev-repos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
