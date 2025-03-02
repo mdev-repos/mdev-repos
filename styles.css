@@ -1,0 +1,179 @@
+*, *::before, *::after{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(17, 3, 68);
+    font-family: 'Cutive Mono', monospace;
+    font-size: 16px;
+}
+
+.main-container{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    color: #d5d2e6;
+    gap: 30px;
+}
+
+header{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 10px;
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+}
+
+#banner{
+    width: 100%;
+    height: 350px;
+    margin-bottom: 20px;
+}
+
+#banner img{
+    width: 100%;
+    height: auto;
+}
+
+.about-container{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.acerca{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 50%;
+}
+
+.acerca p{
+    text-align: justify;
+    font-size: 1.5rem;
+    margin:15px auto;
+}
+
+.tecs{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 50%;
+    gap: 20px;
+}
+
+.tec-card{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.projects{
+    width: 100%;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+    margin-top: 20px;
+}
+
+.projects-container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:30px;
+}
+
+.project-card{
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+    border: 1px solid #9b9898;
+    box-shadow: 3px 3px 2px #9b9898;
+    border-radius: 20px;
+    width: 300px;
+    height: 450px;
+    align-items: center;
+    gap: 12px;
+}
+
+.proj-title{
+    width: 100%;
+    height: 15%;
+    text-align: center;
+    font-size: 1.4rem;
+}
+
+.proj-img{
+    width: 80%;
+    height: 70%;
+}
+
+.proj-img img{
+    width: 100%;
+    height: 100%;
+    border-radius: 12px;
+}
+
+.proj-btns{
+    width: 100%;
+    height: 15%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.proj-btns img{
+    height: 27px;
+    border-radius: 10px;
+}
+
+.proj-btns img:hover{
+    opacity: 0.7;
+}
+
+.repo-btn, .prew-btn {
+    padding: 10px 12px;
+    font-size: 0.7rem;
+    font-weight: 600;
+    border: none;
+    border-radius: 10px;
+    background-color: orange;
+    box-shadow: 3px 2px 2px #9b9898;
+}
+
+.prew-btn{
+    background-color: skyblue;
+}
+
+.repo-btn:hover, .prew-btn:hover{
+    cursor: pointer;
+    opacity: 0.7;
+}
+
+footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    margin-bottom: 20px;
+}
+
+.contact-container{
+    margin-bottom: 20px;
+}

@@ -1,169 +1,105 @@
-## <div align="center"><h1>Hi!👋 I'm Matias</h1></div>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/68b71ec1-eeb9-42b0-8da5-867f89554098" alt="Banner" />
-</p>
-
 <div align="center">
+  <img src="./assets/banner.png" alt="Personal Banner" style="width: 100%; height: auto; margin-bottom: 20px;">
+  
+  <h1>Hi there! 👋 I'm Matías, a Software Developer ⚡</h1>
+</div>
+
+---
+
+## About Me 🔍
+
+I am a Backend-oriented Software Developer with more than 2 years of experience, in continuous training and always looking for new opportunities, which has allowed me to acquire solid knowledge in programming, databases, and agile methodologies. Currently, I am studying the Technician in Software Development and training as a COBOL Developer | CICS | DB2.
+
+I have participated in collaborative projects that replicate real environments, where I have collaborated with other developers in creating web applications from scratch, working as a team to meet tight deadlines and deliver functional products (MVP).
+
+---
+
+## Stack 🔥
+
+### Backend ->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" alt="Backend Technologies" />
+</a>
+
+### Databases ->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb" alt="Database Technologies" />
+</a>
+
+### Frontend ->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend Technologies" />
+</a>
+
+### Testing ->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=postman,jest,junit" alt="Testing Tools" />
+</a>
+
+### Version Control ->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github" alt="Version Control Tools" />
+</a>
+
+### Collaboration ->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=githubactions,discord" alt="Collaboration Tools" />
+</a>
+
+---
+
+## Projects 🚀
+
+<div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin-top: 20px;">
+
+  ### Nativo Banco Rural
+  <div style="border: 1px solid #9b9898; border-radius: 20px; padding: 15px; width: 300px; text-align: center; box-shadow: 3px 3px 2px #9b9898;">
+    <img src="./assets/Nativo-01.png" alt="Nativo Banca Rural" style="width: 80%; border-radius: 12px;">
+    <div style="display: flex; justify-content: space-around; margin-top: 10px;">
+      <a href="https://github.com/IgrowkerTraining/i003-nativo-back" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub%20Repo-FF5722?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo" />
+      </a>
+      <a href="https://nativo.netlify.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=rocket&logoColor=white" alt="Live Demo" />
+      </a>
+    </div>
+  </div>
+
+  ### ECO Sistema
+  <div style="border: 1px solid #9b9898; border-radius: 20px; padding: 15px; width: 300px; text-align: center; box-shadow: 3px 3px 2px #9b9898;">
+    <img src="./assets/ECOSistema-00.png" alt="ECO Sistema" style="width: 80%; border-radius: 12px;">
+    <div style="display: flex; justify-content: space-around; margin-top: 10px;">
+      <a href="https://github.com/mdev-repos/EcoSistema-WebApp-v01" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub%20Repo-FF5722?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo" />
+      </a>
+      <a href="#" style="pointer-events: none; cursor: default;">
+        <img src="https://img.shields.io/badge/Live%20Demo-808080?style=flat-square&logo=rocket&logoColor=white" alt="Live Demo" style="opacity: 0.6;" />
+      </a>
+    </div>
+  </div>
+
+</div>
+
+---
+
+## Contact Me 🤝
+
+<div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
   <a href="https://www.linkedin.com/in/mnm-dev" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/mdev-repos?tab=followers">
-    <img src="https://img.shields.io/github/followers/mdev-repos?label=GitHub%20Followers&style=flat-square" alt="GitHub Followers" />
+  <a href="https://github.com/mdev-repos" target="_blank">
+    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub" />
+  </a>
+  <a href="mailto:mdev.repository@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/doodle/40/000000/gmail-new.png" alt="Gmail" />
   </a>
 </div>
 
------
+---
 
-<div align="center"><h2>About me👨🏻‍💻</h2></div>
-<div align="center"><h4>I Feel Very Comfortable Working With</h4></div>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,maven,mysql,postgres,hibernate,git,github,postman" />
-  </a>
-</p>
-
-- 💻 **Java / Spring Boot** for powerful and scalable applications
-- 🗄️ **Database Management Systems**: MySQL / MariaDB / PostgreSQL
-- 📚 **ORM**: Hibernate JPA for database management
-- 🛠️ **Version Control**: Git (GitHub, Gitea)
-- 🔍 **API Testing**: Postman
-- 🤝 **Teamwork Tools**: Trello, GitHub Projects
-
-
-<div align="center"><h4>I Also Have Knowledge In</h4></div>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,c,cpp,js,css,html,linux" />
-  </a>
-</p>
-
------
-
-<div align="center"><h2>Projects 🚀</h2></div>
+## Total Visitors 👇❤️
 
 <div align="center">
-  <table border="0" cellpadding="15"> <!-- Eliminamos los bordes y agregamos más espaciado -->
-    <tr>
-      <td>
-        <div style="border: 0px; border-radius: 10px; padding: 20px; width: 250px; text-align: center;">
-          <h3>Nativo (Working on)</h3>
-          <a href="https://github.com/igrowker/i003-nativo-back">
-            <img src="https://github.com/mdev-repos/mdev-repos/blob/main/assets/Nativo-01.png" alt="Project Screenshot" style="width: 200px; height: 200px; object-fit: cover; border-radius: 10px;">
-          </a>
-          <br/><br/>
-          <a href="https://github.com/igrowker/i003-nativo-back">
-            <img src="https://img.shields.io/badge/GitHub%20Repo-FF5722?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo" />
-          </a>
-          <a href="#">
-            <img src="https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=rocket&logoColor=white" alt="Live Demo" />
-          </a>
-        </div>
-      </td>
-      <td>
-        <div style="border: 0px; border-radius: 10px; padding: 20px; width: 250px; text-align: center;"> <!-- Borde transparente -->
-          <h3>ECO Sistema (v01)</h3>
-          <a href="https://github.com/mdev-repos/EcoSistema-WebApp-v01">
-            <img src="https://github.com/mdev-repos/mdev-repos/blob/main/assets/ECOSistema-00.png" alt="Project Screenshot" style="width: 200px; height: 200px; object-fit: cover; border-radius: 10px;">
-          </a>
-          <br/><br/>
-          <a href="https://github.com/mdev-repos/EcoSistema-WebApp-v01">
-            <img src="https://img.shields.io/badge/GitHub%20Repo-FF5722?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo" />
-          </a>
-          <a href="#">
-            <img src="https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=rocket&logoColor=white" alt="Live Demo" />
-          </a>
-        </div>
-      </td>
-      <td>
-        <div style="border: 0px; border-radius: 10px; padding: 20px; width: 250px; text-align: center;">
-          <h3>Bazar (TodoCode)</h3>
-          <a href="https://github.com/mdev-repos/bazar-API-CourseProject">
-            <img src="https://github.com/mdev-repos/mdev-repos/blob/main/assets/BazarTodoCode-00.png" alt="Project Screenshot" style="width: 200px; height: 200px; object-fit: cover; border-radius: 10px;">
-          </a>
-          <br/><br/>
-          <a href="https://github.com/mdev-repos/bazar-API-CourseProject">
-            <img src="https://img.shields.io/badge/GitHub%20Repo-FF5722?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo" />
-          </a>
-          <a href="#">
-            <img src="https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=rocket&logoColor=white" alt="Live Demo" />
-          </a>
-        </div>
-      </td>
-    </tr>
-  </table>
+  <img src="https://profile-counter.glitch.me/mdev-repos/count.svg" alt="Visitor Count" />
 </div>
-
------
-
-<div align="center"><h2>GitHub Analytics 📊</h2></div>
- 
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=mdev-repos&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mdev-repos&theme=radical" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdev-repos&layout=compact&theme=radical"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-</p>        
-<!--- stats (end) -->
-
-------
-
-<div align="center"><h2>Contact Me 🤝</h2></div>
-
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a   target="_blank" href="https://www.linkedin.com/in/mnm-dev">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" ></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/mdev-repos">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-           <a style="margin-left: 10px;" target="_blank" href="mailto:mdev.repository@gmail.com">
-		<img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>
-      </div>
-
-</p>
-
-------
-
-<div align="center"><h2>Total Visitors 👇❤️</h2></div>
-
-<div align="center"><img src="https://profile-counter.glitch.me/mdev-repos/count.svg"></div>
-
-
-<!--
-**mdev-repos/mdev-repos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
