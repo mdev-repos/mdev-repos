@@ -31,16 +31,28 @@
 
 <div align="center">
   <h2>Stack 🔥</h2>
-  <h4>I Feel Very Comfortable Working With</h4>
+  <h4>Backend | Java </h4>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,spring,maven,mysql,postgres,hibernate,git,github,postman" alt="Technologies" />
+      <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postman" alt="Technologies" />
     </a>
   </p>
-  <h4>I Also Have Knowledge In</h4>
+  <h4>Frontend</h4>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=bash,c,cpp,js,css,html,linux" alt="Additional Technologies" />
+      <img src="https://skillicons.dev/icons?i=html,css,js" alt="Technologies" />
+    </a>
+  </p>
+  <h4>Data Bases</h4>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb" alt="Technologies" />
+    </a>
+  </p>
+  <h4>Tools</h4>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,github,githubactions" alt="Technologies" />
     </a>
   </p>
 </div>
@@ -80,24 +92,6 @@
             <img src="https://img.shields.io/badge/Live%20Demo-808080?style=flat-square&logo=rocket&logoColor=white" alt="Live Demo" style="opacity: 0.6;" />
           </a>
         </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-<div align="center">
-  <h2>GitHub Analytics 📊</h2>
-  <table align="center">
-    <tr border="none">
-      <td width="50%" align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdev-repos&show_icons=true&theme=radical" alt="GitHub Stats" />
-        <br></br>
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mdev-repos&theme=radical" />
-      </td>
-      <td width="50%" align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdev-repos&layout=compact&theme=radical" />
       </td>
     </tr>
   </table>
