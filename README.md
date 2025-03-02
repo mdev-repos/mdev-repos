@@ -1,52 +1,51 @@
-<div style="align:center">
+<div align="center">
   <img src="./assets/banner.png" alt="Personal Banner" style="width: 100%; height: auto; margin-bottom: 20px;">
   
   <h1>Hi there! 👋 I'm Matías, a Software Developer ⚡</h1>
 </div>
 
 ---
-<div style="align: center">
+
 ## About Me 🔍
-
-
+<p style="text-align: center;">
 I am a Backend-oriented Software Developer with more than 2 years of experience, in continuous training and always looking for new opportunities, which has allowed me to acquire solid knowledge in programming, databases, and agile methodologies. Currently, I am studying the Technician in Software Development and training as a COBOL Developer | CICS | DB2.
 
 I have participated in collaborative projects that replicate real environments, where I have collaborated with other developers in creating web applications from scratch, working as a team to meet tight deadlines and deliver functional products (MVP).
-</div>
+</p>
 ---
-<div style="display:flex;">
+
 ## Stack 🔥
 
-### Backend
+### Backend ->
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" alt="Backend Technologies" />
 </a>
 
-### Databases
+### Databases ->
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb" alt="Database Technologies" />
 </a>
 
-### Frontend
+### Frontend ->
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend Technologies" />
 </a>
 
-### Testing
+### Testing ->
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=postman,jest,junit" alt="Testing Tools" />
 </a>
 
-### Version Control
+### Version Control ->
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,github" alt="Version Control Tools" />
 </a>
 
-### Collaboration
+### Collaboration ->
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=githubactions,discord" alt="Collaboration Tools" />
 </a>
-</div>
+
 ---
 
 ## Projects 🚀
