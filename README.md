@@ -1,13 +1,18 @@
 <div align="center">
-  <img src="./assets/banner.png" alt="Personal Banner" style="width: 70%; height: auto; margin-bottom: 20px;">
-  
-  ### 👋 ¡Hola! Soy **Matías** | Hello there! I'm **Matías**  
-  <p>🖥️ Desarrollador de Software | Software Developer</p>  
-  <p>🚀 <strong>Especializado en Mainframe: COBOL | JCL | DB2 | CICS</strong></p>
+  <div style="width:100%;max-width:700px;height:120px;border-radius:12px;background:linear-gradient(135deg,#0f172a,#1e293b);display:flex;align-items:center;justify-content:center;margin:0 auto 16px;">
+    <span style="font-family:monospace;color:#7dd3fc;font-size:28px;letter-spacing:.3em;font-weight:bold;">&lt;/&gt; MDEV</span>
+  </div>
+
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%E2%80%94+Java+%26+Spring+Boot;Con+diferencial+en+IBM+Mainframe+(COBOL%2FCICS%2FDB2);Construyendo+proyectos+propios+documentados" alt="Typing SVG" />
+
+  ### 👋 ¡Hola! Soy **Matías** | Hello there! I'm **Matías**
 
   <div align="center">
   <a href="https://www.linkedin.com/in/mnm-dev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mdev.repository@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   </div>
 
@@ -17,31 +22,31 @@
 </div>
 <div align="justify">
   <p>
-    Desarrollador con +3 años de experiencia en programación, bases de datos y metodologías ágiles. 
-    <strong>Especializado en desarrollo Mainframe con COBOL, JCL, DB2 y CICS</strong>. 
-    He completado exitosamente mi formación en CODEKI | UBA, trabajando con Mainframes reales 24/7.
+    Desarrollador backend enfocado en <strong>Java + Spring Boot</strong>. Estoy terminando la Tecnicatura en
+    Desarrollo de Software (5 materias restantes) y sumando, en paralelo, un roadmap propio de especialización Backend con Java (programación funcional, microservicios, Spring Security, testing, Spring AI, y mucho más!).
   </p>
   <p>
-    Actualmente curso la Tecnicatura en Desarrollo de Software, donde he profundizado en análisis y diseño (UML, requerimientos), 
-    desarrollo con .NET/C# y Kotlin/Android Studio, testing (unitarias, integración, Selenium, NUnit) y proyectos completos.
+    Como diferencial, tengo formación y práctica real en <strong>Mainframe IBM</strong> (COBOL, JCL, DB2, CICS),
+    completada en CODEKI | UBA trabajando contra mainframes reales 24/7. Es una combinación poco común que me permite entender sistemas backend tanto modernos como legacy/transaccionales.
   </p>
   <p>
-    Como desarrollador Java Backend, participé en proyectos colaborativos que simulan entornos reales, 
-    construyendo aplicaciones web desde cero bajo plazos ajustados (MVP). Esta experiencia me dio habilidades transferibles al mundo Mainframe.
+    Todavía no tengo experiencia laboral formal, así que estoy construyendo evidencia práctica: proyectos propios
+    documentados de punta a punta (diseño, código, tests, deploy) en vez de solo ejercicios de curso.
   </p>
   <hr>
   <p>
-    I'm a developer with 3+ years of experience in programming, databases, and agile methodologies. 
-    <strong>Specialized in Mainframe development with COBOL, JCL, DB2 and CICS</strong>. 
-    I have successfully completed my training at CODEKI | UBA, working with real 24/7 Mainframes.
+    Backend developer focused on <strong>Java + Spring Boot</strong>. I'm finishing my Software Development degree
+    (5 courses left) while following my own Backend specialization roadmap with Java (functional programming,
+    microservices, Spring Security, testing, Spring AI, and much more!).
   </p>
   <p>
-    Currently pursuing a Software Development degree, where I've deepened my knowledge in analysis and design (UML, requirements), 
-    development with .NET/C# and Kotlin/Android Studio, testing (unit, integration, Selenium, NUnit) and complete projects.
+    As a differentiator, I have real training and hands-on practice in <strong>IBM Mainframe</strong> (COBOL, JCL,
+    DB2, CICS), completed at CODEKI | UBA working against real 24/7 mainframes. It's an uncommon combination that
+    helps me understand both modern and legacy/transactional backend systems.
   </p>
   <p>
-    As a Java Backend developer, I contributed to collaborative projects simulating real work environments, 
-    building web apps from scratch under tight deadlines (MVPs). This gave me transferable skills for Mainframe development.
+    I don't have formal work experience yet, so I'm building practical evidence instead: fully documented personal
+    projects (design, code, tests, deploy) rather than just course exercises.
   </p>
 </div>
 
@@ -49,166 +54,274 @@
 
 <div align="center">
 
-  ## 🔥 Tecnologías | Technologies
+  ## 🔥 Stack
 
-  <h4><strong>[ Mainframe ] [ COBOL ]</strong></h4>
+  <h4><strong>[ Backend ] [ Java ]</strong></h4>
 
-<img src="https://img.shields.io/badge/COBOL-00599C?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/JCL-0F62FE?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/CICS-054ADA?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/DB2-052FAD?style=for-the-badge&logo=ibmdb2&logoColor=white">
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white">
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
 <br>
-<img src="https://img.shields.io/badge/IBM Mainframe-000?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/TSO-5AA6E7?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/ISPF-0F62FE?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Zowe-7D4AFF?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/USS-3EAA64?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white">
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white">
+<img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white">
 
-  <h4><strong>[ Back end ] [ Java ]</strong></h4>
+  <h4><strong>[ Mainframe ] [ IBM ]</strong></h4>
 
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white "> 
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white">
+<img src="https://img.shields.io/badge/COBOL-00599C?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/JCL-0F62FE?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/CICS-054ADA?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/DB2-052FAD?style=flat-square&logo=ibmdb2&logoColor=white">
+<img src="https://img.shields.io/badge/TSO%20%2F%20ISPF-5AA6E7?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/Zowe-7D4AFF?style=flat-square&logoColor=white">
 
-<h4><strong>[ Desarrollo Móvil & Desktop ]</strong></h4>
+  <h4><strong>[ Herramientas ]</strong></h4>
 
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+<img src="https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=white">
 
-<h4><strong>[ Front end ] [ JavaScript ]</strong></h4>
- 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
-<img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white">
-
-<h4><strong>[ Testing ]</strong></h4>
-
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
-  <img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&
-logoColor=white">
-  <img src="https://img.shields.io/badge/NUnit-349C43?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&
-logoColor=white">
-
-
-  <h4><strong>[ Herramientas ] | [ Tools ]</strong></h4>
-
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+</div>
 
 <br>
 
-## 🚀 Proyectos Destacados | Featured Projects
-  
-<table>
+<div align="center">
+
+<details>
+<summary><strong>🧩 Otras tecnologías (facultad) | Other technologies (coursework)</strong></summary>
+<br>
+
+<img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white">
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white">
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/Node%20js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white">
+<img src="https://img.shields.io/badge/NUnit-349C43?style=flat-square">
+<img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white">
+
+</details>
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 🚀 Proyecto Ancla | Anchor Project
+
+</div>
+
+> Voy a ir creciendo este proyecto a medida que avanzo en mi roadmap (funcional → microservicios → Spring Security → testing → Spring AI), documentando cada etapa.
+
+**🧱 Bazar** — *en desarrollo activo*
+
+Sistema de gestión de venta más complejo (múltiples entidades, lógica de negocio de ventas/stock) que ferretería, lo que me da la posibilidad de expandirlo con tecnologías más desafiantes. Va a ser mi proyecto de referencia: cada tecnología nueva del roadmap se incorpora acá como una iteración documentada, en vez de quedar dispersa en mini-proyectos sueltos.
+Repo privado por ahora (recién empezado) — lo haré público apenas tenga una primera versión estable.
+
+<br>
+
+<div align="center">
+
+## 💼 Proyectos Destacados | Featured Projects
+
+</div>
+
+<table width="100%">
   <tr>
-    <td align="center" width="33%">
-      <h3 style="text-align: center;">CODEKI | UBA</h3>
-      <a href="https://github.com/mdev-repos/CODEKI-UBA-DesarrolladorCOBOL">
-        <img src="./assets/Logo_Codeki.png" style="width: 200px; height: 260px; object-fit: cover; border-radius: 10px;">
-      </a>
-      <p>Mainframe training</p>
-      <p>COBOL | CICS | DB2</p>
-      <a href="https://github.com/mdev-repos/CODEKI-UBA-DesarrolladorCOBOL">
-        <img src="https://img.shields.io/badge/Repo-FF5722?style=flat-square&logo=github">
+    <td width="220" align="center">
+      <a href="https://mdev-repos.github.io/front_ferreteria__prueba_tecnica_todocode/">
+        <img src="./assets/Ferreteria-01.png" width="200" style="border-radius: 10px;">
       </a>
     </td>
-    <td align="center" width="33%">
-      <h3 style="text-align: center;">Nativo</h3>
-      <a href="https://github.com/igrowker/i003-nativo-back">
-        <img src="./assets/Nativo-01.png" style="width: 200px; height: 260px; object-fit: cover; border-radius: 10px;">
+    <td valign="top">
+      <h3>Ferretería API</h3>
+      <p>API REST de prueba técnica, con front de consumo propio.</p>
+      <p><strong>Java | Spring Boot</strong></p>
+      <a href="https://github.com/mdev-repos/api_ferreteria__prueba_tecnica_todocode">
+        <img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github">
       </a>
+      <a href="https://api-ferreteria-prueba-tecnica-todocode.onrender.com">
+        <img src="https://img.shields.io/badge/API%20Live-46E3B7?style=flat-square&logo=render&logoColor=white">
+      </a>
+      <a href="https://mdev-repos.github.io/front_ferreteria__prueba_tecnica_todocode/">
+        <img src="https://img.shields.io/badge/Front%20Demo-00C853?style=flat-square&logo=rocket">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table width="100%">
+  <tr>
+    <td width="220" align="center">
+      <a href="https://github.com/mdev-repos/Nativo-Banco-Rural-project">
+        <img src="./assets/Nativo-01.png" width="200" style="border-radius: 10px;">
+      </a>
+    </td>
+    <td valign="top">
+      <h3>Nativo</h3>
       <p>Rural Banking app</p>
-      <p>Java | Spring backend</p>
-      <a href="https://github.com/igrowker/i003-nativo-back">
-        <img src="https://img.shields.io/badge/Repo-FF5722?style=flat-square&logo=github">
+      <p><strong>Java | Spring backend</strong></p>
+      <a href="https://github.com/mdev-repos/Nativo-Banco-Rural-project">
+        <img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github">
       </a>
       <a href="https://nativo.netlify.app/">
         <img src="https://img.shields.io/badge/Demo-00C853?style=flat-square&logo=rocket">
       </a>
     </td>
-    <td align="center" width="33%">
-      <h3 style="text-align: center;">ECO Sistema</h3>
-      <a href="https://github.com/mdev-repos/EcoSistema-WebApp-v01">
-        <img src="./assets/ECOSistema-00.png" style="width: 200px; height: 260px; object-fit: cover; border-radius: 10px;">
-      </a>
-      <p>Environmental app</p>
-      <p>Java | Spring backend</p>
-      <a href="https://github.com/mdev-repos/EcoSistema-WebApp-v01">
-        <img src="https://img.shields.io/badge/Repo-FF5722?style=flat-square&logo=github">
-      </a>
-    </td>
   </tr>
 </table>
 
 <br>
 
-## 📚 Proyectos Universitarios | Academic Projects
-
-<table>
+<table width="100%">
   <tr>
-    <td align="center" width="33%">
-      <h3 style="text-align: center;">Clínica SePrise App</h3>
-      <a href="https://github.com/mdev-repos/PP2-PROYECTOINTEGRADOR-ClinicaSePrise-EQ13">
-        <img src="./assets/Clinica-SePrise.jpeg" style="width: 200px; height: 260px; object-fit: cover; border-radius: 10px;">
-      </a>
-      <p>Healthcare clinic management app</p>
-      <p>C# | .Net Desktop</p>
-      <a href="https://github.com/mdev-repos/PP2-PROYECTOINTEGRADOR-ClinicaSePrise-EQ13">
-        <img src="https://img.shields.io/badge/Repo-FF5722?style=flat-square&logo=github">
+    <td width="220" align="center">
+      <a href="https://github.com/mdev-repos/EcoSistema-WebApp-v01">
+        <img src="./assets/ECOSistema-00.png" width="200" style="border-radius: 10px;">
       </a>
     </td>
-    <td align="center" width="33%">
-      <h3 style="text-align: center;">Club Deportivo (Mobile)</h3>
-      <a href="https://github.com/mdev-repos/DAM-PROYECTOINTEGRADOR-EQ13">
-        <img src="./assets/Club-Deportivo(mobile).png" style="width: 200px; height: 260px; object-fit: cover; border-radius: 10px;">
-      </a>
-      <p>Sport Club management app</p>
-      <p>Kotlin | Android Studio</p>
-      <a href="https://github.com/mdev-repos/DAM-PROYECTOINTEGRADOR-EQ13">
-        <img src="https://img.shields.io/badge/Repo-FF5722?style=flat-square&logo=github">
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <h3 style="text-align: center;">Club Deportivo (Desktop)</h3>
-      <a href="https://github.com/mdev-repos/DSOO-PROYECTOINTEGRADOR-EQ6">
-        <img src="./assets/Club-Deportivo(desktop).png" style="width: 200px; height: 260px; object-fit: cover; border-radius: 10px;">
-      </a>
-      <p>Sport Club management app</p>
-      <p>C# | .Net Desktop</p>
-      <a href="https://github.com/mdev-repos/DSOO-PROYECTOINTEGRADOR-EQ6">
-        <img src="https://img.shields.io/badge/Repo-FF5722?style=flat-square&logo=github">
+    <td valign="top">
+      <h3>ECO Sistema</h3>
+      <p>Environmental app</p>
+      <p><strong>Java | Spring backend</strong></p>
+      <a href="https://github.com/mdev-repos/EcoSistema-WebApp-v01">
+        <img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github">
       </a>
     </td>
   </tr>
 </table>
 
 <br>
+
+<div align="center">
+
+## 🖥️ Mainframe
+
+</div>
+
+<table width="100%">
+  <tr>
+    <td width="220" align="center">
+      <a href="https://github.com/mdev-repos/CODEKI-UBA-DesarrolladorCOBOL">
+        <img src="./assets/Logo_Codeki.png" width="200" style="border-radius: 10px;">
+      </a>
+    </td>
+    <td valign="top">
+      <h3>CODEKI | UBA</h3>
+      <p>Formación Mainframe — soluciones completas</p>
+      <p><strong>COBOL | CICS | DB2 | JCL</strong></p>
+      <a href="https://github.com/mdev-repos/CODEKI-UBA-DesarrolladorCOBOL">
+        <img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<details>
+<summary><strong>📚 Proyectos Universitarios | Academic Projects</strong> (requeridos por la carrera)</summary>
+
+<br>
+
+<table width="100%">
+  <tr>
+    <td width="220" align="center">
+      <a href="https://github.com/mdev-repos/TSDS-PP2--ClinicaSePriseApp--Desktop--CSharp_NET">
+        <img src="./assets/Clinica-SePrise.jpeg" width="200" style="border-radius: 10px;">
+      </a>
+    </td>
+    <td valign="top">
+      <h3>Clínica SePrise App</h3>
+      <p>Healthcare clinic management app</p>
+      <p><strong>C# | .NET Desktop</strong></p>
+      <a href="https://github.com/mdev-repos/TSDS-PP2--ClinicaSePriseApp--Desktop--CSharp_NET">
+        <img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table width="100%">
+  <tr>
+    <td width="220" align="center">
+      <a href="https://github.com/mdev-repos/TSDS-DAM--ClubDeportivoApp--Mobile--Kotlin_AndroidStudio">
+        <img src="./assets/Club-Deportivo(mobile).png" width="200" style="border-radius: 10px;">
+      </a>
+    </td>
+    <td valign="top">
+      <h3>Club Deportivo (Mobile)</h3>
+      <p>Sport Club management app</p>
+      <p><strong>Kotlin | Android Studio</strong></p>
+      <a href="https://github.com/mdev-repos/TSDS-DAM--ClubDeportivoApp--Mobile--Kotlin_AndroidStudio">
+        <img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table width="100%">
+  <tr>
+    <td width="220" align="center">
+      <a href="https://github.com/mdev-repos/TSDS-DSOO--clubDeportivoApp--Desktop--CSharp_NET">
+        <img src="./assets/Club-Deportivo(desktop).png" width="200" style="border-radius: 10px;">
+      </a>
+    </td>
+    <td valign="top">
+      <h3>Club Deportivo (Desktop)</h3>
+      <p>Sport Club management app</p>
+      <p><strong>C# | .NET Desktop</strong></p>
+      <a href="https://github.com/mdev-repos/TSDS-DSOO--clubDeportivoApp--Desktop--CSharp_NET">
+        <img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github">
+      </a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
+<br>
+
+<div align="center">
+
+## 📊 Actividad
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mdev-repos&theme=default&hide_border=true" alt="GitHub Streak" height="165"/>
+
+<br><br>
 
 <h2><strong>🤝 Contacto | Contact</strong></h2>
 
-[![LinkedIn](https://img.icons8.com/doodle/40/000000/linkedin--v2.png)](https://www.linkedin.com/in/mnm-dev)
-[![GitHub](https://img.icons8.com/doodle/40/000000/github--v1.png)](https://github.com/mdev-repos)
-[![Email](https://img.icons8.com/doodle/40/000000/gmail-new.png)](mailto:mdev.repository@gmail.com)
+<a href="https://www.linkedin.com/in/mnm-dev">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
+</a>
+<a href="https://github.com/mdev-repos">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white">
+</a>
+<a href="mailto:mdev.repository@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white">
+</a>
 
 <hr>
 
-  <h3><strong>❤️ Gracias por visitar | Thanks for stopping by!</strong></h3>
-
-  <p><em>Actualmente enfocado en oportunidades como Desarrollador Mainframe | Currently focused on Mainframe Developer opportunities</em></p>
+<p><em>🔎 Buscando oportunidades como Backend Developer (Java) | COBOL Developer — primer empleo formal en desarrollo.</em></p>
+<p><em>🔎 Looking for Backend Developer (Java) | COBOL Developer opportunities — first formal role in software development.</em></p>
 
 </div>
