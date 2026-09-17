@@ -124,10 +124,13 @@
 
 > Voy a ir creciendo este proyecto a medida que avanzo en mi roadmap (funcional → microservicios → Spring Security → testing → Spring AI), documentando cada etapa.
 
-![Bazar](./assets/Bazar-Card.png)
+[![Bazar](./assets/Bazar-Card.png)](https://github.com/mdev-repos/api_bazar__ejercicio_curso_todocode)
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mdev-repos/api_bazar__ejercicio_curso_todocode)
+[![Front Demo](https://img.shields.io/badge/Front%20Demo-00C853?style=flat-square&logo=rocket)](https://mdev-repos.github.io/front_bazar__curso_todocode/)
 
 Sistema de gestión de venta más complejo (múltiples entidades, lógica de negocio de ventas/stock) que ferretería, lo que me da la posibilidad de expandirlo con tecnologías más desafiantes. Va a ser mi proyecto de referencia: cada tecnología nueva del roadmap se incorpora acá como una iteración documentada, en vez de quedar dispersa en mini-proyectos sueltos.
-Repo privado por ahora (recién empezado) — lo haré público apenas tenga una primera versión estable.
+Backend corriendo en local por ahora — el deploy (Render + PostgreSQL) es el próximo paso.
 
 <br>
 
