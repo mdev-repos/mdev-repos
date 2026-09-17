@@ -124,7 +124,7 @@
 
 > Voy a ir creciendo este proyecto a medida que avanzo en mi roadmap (funcional → microservicios → Spring Security → testing → Spring AI), documentando cada etapa.
 
-**🧱 Bazar** — *en desarrollo activo*
+![Bazar](./assets/Bazar-Card.png)
 
 Sistema de gestión de venta más complejo (múltiples entidades, lógica de negocio de ventas/stock) que ferretería, lo que me da la posibilidad de expandirlo con tecnologías más desafiantes. Va a ser mi proyecto de referencia: cada tecnología nueva del roadmap se incorpora acá como una iteración documentada, en vez de quedar dispersa en mini-proyectos sueltos.
 Repo privado por ahora (recién empezado) — lo haré público apenas tenga una primera versión estable.
@@ -137,72 +137,24 @@ Repo privado por ahora (recién empezado) — lo haré público apenas tenga una
 
 </div>
 
-<table width="100%">
-  <tr>
-    <td width="220" align="center">
-      <a href="https://mdev-repos.github.io/front_ferreteria__prueba_tecnica_todocode/">
-        <img src="./assets/Ferreteria-01.png" width="200" style="border-radius: 10px;">
-      </a>
-    </td>
-    <td valign="top">
-      <h3>Ferretería API</h3>
-      <p>API REST de prueba técnica, con front de consumo propio.</p>
-      <p><strong>Java | Spring Boot</strong></p>
-      <a href="https://github.com/mdev-repos/api_ferreteria__prueba_tecnica_todocode">
-        <img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github">
-      </a>
-      <a href="https://api-ferreteria-prueba-tecnica-todocode.onrender.com">
-        <img src="https://img.shields.io/badge/API%20Live-46E3B7?style=flat-square&logo=render&logoColor=white">
-      </a>
-      <a href="https://mdev-repos.github.io/front_ferreteria__prueba_tecnica_todocode/">
-        <img src="https://img.shields.io/badge/Front%20Demo-00C853?style=flat-square&logo=rocket">
-      </a>
-    </td>
-  </tr>
-</table>
+[![Ferretería API](./assets/Ferreteria-Card.png)](https://github.com/mdev-repos/api_ferreteria__prueba_tecnica_todocode)
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mdev-repos/api_ferreteria__prueba_tecnica_todocode)
+[![API Live](https://img.shields.io/badge/API%20Live-46E3B7?style=flat-square&logo=render&logoColor=white)](https://api-ferreteria-prueba-tecnica-todocode.onrender.com)
+[![Front Demo](https://img.shields.io/badge/Front%20Demo-00C853?style=flat-square&logo=rocket)](https://mdev-repos.github.io/front_ferreteria__prueba_tecnica_todocode/)
 
 <br>
 
-<table width="100%">
-  <tr>
-    <td width="220" align="center">
-      <a href="https://github.com/mdev-repos/Nativo-Banco-Rural-project">
-        <img src="./assets/Nativo-01.png" width="200" style="border-radius: 10px;">
-      </a>
-    </td>
-    <td valign="top">
-      <h3>Nativo</h3>
-      <p>Rural Banking app</p>
-      <p><strong>Java | Spring backend</strong></p>
-      <a href="https://github.com/mdev-repos/Nativo-Banco-Rural-project">
-        <img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github">
-      </a>
-      <a href="https://nativo.netlify.app/">
-        <img src="https://img.shields.io/badge/Demo-00C853?style=flat-square&logo=rocket">
-      </a>
-    </td>
-  </tr>
-</table>
+[![Nativo](./assets/Nativo-Card.png)](https://github.com/mdev-repos/Nativo-Banco-Rural-project)
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mdev-repos/Nativo-Banco-Rural-project)
+[![Demo](https://img.shields.io/badge/Demo-00C853?style=flat-square&logo=rocket)](https://nativo.netlify.app/)
 
 <br>
 
-<table width="100%">
-  <tr>
-    <td width="220" align="center">
-      <a href="https://github.com/mdev-repos/EcoSistema-WebApp-v01">
-        <img src="./assets/ECOSistema-00.png" width="200" style="border-radius: 10px;">
-      </a>
-    </td>
-    <td valign="top">
-      <h3>ECO Sistema</h3>
-      <p>Environmental app</p>
-      <p><strong>Java | Spring backend</strong></p>
-      <a href="https://github.com/mdev-repos/EcoSistema-WebApp-v01">
-        <img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github">
-      </a>
-    </td>
-  </tr>
-</table>
+[![ECO Sistema](./assets/ECOSistema-Card.png)](https://github.com/mdev-repos/EcoSistema-WebApp-v01)
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mdev-repos/EcoSistema-WebApp-v01)
 
 <br>
 
@@ -212,23 +164,9 @@ Repo privado por ahora (recién empezado) — lo haré público apenas tenga una
 
 </div>
 
-<table width="100%">
-  <tr>
-    <td width="220" align="center">
-      <a href="https://github.com/mdev-repos/CODEKI-UBA-DesarrolladorCOBOL">
-        <img src="./assets/Logo_Codeki.png" width="200" style="border-radius: 10px;">
-      </a>
-    </td>
-    <td valign="top">
-      <h3>CODEKI | UBA</h3>
-      <p>Formación Mainframe — soluciones completas</p>
-      <p><strong>COBOL | CICS | DB2 | JCL</strong></p>
-      <a href="https://github.com/mdev-repos/CODEKI-UBA-DesarrolladorCOBOL">
-        <img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github">
-      </a>
-    </td>
-  </tr>
-</table>
+[![CODEKI | UBA](./assets/Codeki-Card.png)](https://github.com/mdev-repos/CODEKI-UBA-DesarrolladorCOBOL)
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mdev-repos/CODEKI-UBA-DesarrolladorCOBOL)
 
 <br>
 
@@ -237,63 +175,21 @@ Repo privado por ahora (recién empezado) — lo haré público apenas tenga una
 
 <br>
 
-<table width="100%">
-  <tr>
-    <td width="220" align="center">
-      <a href="https://github.com/mdev-repos/TSDS-PP2--ClinicaSePriseApp--Desktop--CSharp_NET">
-        <img src="./assets/Clinica-SePrise.jpeg" width="200" style="border-radius: 10px;">
-      </a>
-    </td>
-    <td valign="top">
-      <h3>Clínica SePrise App</h3>
-      <p>Healthcare clinic management app</p>
-      <p><strong>C# | .NET Desktop</strong></p>
-      <a href="https://github.com/mdev-repos/TSDS-PP2--ClinicaSePriseApp--Desktop--CSharp_NET">
-        <img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github">
-      </a>
-    </td>
-  </tr>
-</table>
+[![Clínica SePrise App](./assets/Clinica-Card.png)](https://github.com/mdev-repos/TSDS-PP2--ClinicaSePriseApp--Desktop--CSharp_NET)
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mdev-repos/TSDS-PP2--ClinicaSePriseApp--Desktop--CSharp_NET)
 
 <br>
 
-<table width="100%">
-  <tr>
-    <td width="220" align="center">
-      <a href="https://github.com/mdev-repos/TSDS-DAM--ClubDeportivoApp--Mobile--Kotlin_AndroidStudio">
-        <img src="./assets/Club-Deportivo(mobile).png" width="200" style="border-radius: 10px;">
-      </a>
-    </td>
-    <td valign="top">
-      <h3>Club Deportivo (Mobile)</h3>
-      <p>Sport Club management app</p>
-      <p><strong>Kotlin | Android Studio</strong></p>
-      <a href="https://github.com/mdev-repos/TSDS-DAM--ClubDeportivoApp--Mobile--Kotlin_AndroidStudio">
-        <img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github">
-      </a>
-    </td>
-  </tr>
-</table>
+[![Club Deportivo Mobile](./assets/ClubMobile-Card.png)](https://github.com/mdev-repos/TSDS-DAM--ClubDeportivoApp--Mobile--Kotlin_AndroidStudio)
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mdev-repos/TSDS-DAM--ClubDeportivoApp--Mobile--Kotlin_AndroidStudio)
 
 <br>
 
-<table width="100%">
-  <tr>
-    <td width="220" align="center">
-      <a href="https://github.com/mdev-repos/TSDS-DSOO--clubDeportivoApp--Desktop--CSharp_NET">
-        <img src="./assets/Club-Deportivo(desktop).png" width="200" style="border-radius: 10px;">
-      </a>
-    </td>
-    <td valign="top">
-      <h3>Club Deportivo (Desktop)</h3>
-      <p>Sport Club management app</p>
-      <p><strong>C# | .NET Desktop</strong></p>
-      <a href="https://github.com/mdev-repos/TSDS-DSOO--clubDeportivoApp--Desktop--CSharp_NET">
-        <img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github">
-      </a>
-    </td>
-  </tr>
-</table>
+[![Club Deportivo Desktop](./assets/ClubDesktop-Card.png)](https://github.com/mdev-repos/TSDS-DSOO--clubDeportivoApp--Desktop--CSharp_NET)
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mdev-repos/TSDS-DSOO--clubDeportivoApp--Desktop--CSharp_NET)
 
 </details>
 
