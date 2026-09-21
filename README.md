@@ -31,7 +31,7 @@
   </p>
   <p>
     Todavía no tengo experiencia laboral formal, así que estoy construyendo evidencia práctica: proyectos propios
-    documentados de punta a punta (diseño, código, tests, deploy) en vez de solo ejercicios de curso.
+    documentados de punta a punta (diseño, código, tests, deploy).
   </p>
   <hr>
   <p>
@@ -46,7 +46,7 @@
   </p>
   <p>
     I don't have formal work experience yet, so I'm building practical evidence instead: fully documented personal
-    projects (design, code, tests, deploy) rather than just course exercises.
+    projects (design, code, tests, deploy).
   </p>
 </div>
 
@@ -118,19 +118,29 @@
 
 <div align="center">
 
-## 🚀 Proyecto Ancla | Anchor Project
+## 🚀 Proyecto Actual | Current Project
 
 </div>
 
-> Voy a ir creciendo este proyecto a medida que avanzo en mi roadmap (funcional → microservicios → Spring Security → testing → Spring AI), documentando cada etapa.
+> Mi proyecto personal más actual — el que hoy refleja la punta de mis capacidades. Cada tecnología nueva que incorporo a mi roadmap (programación funcional → microservicios | Spring Cloud → Spring Security → testing → Spring AI) se documenta acá como una iteración real, en vez de quedar dispersa en mini-proyectos sueltos (los que suelo subir a gitlab).
 
 [![Bazar](./assets/Bazar-Card.png)](https://github.com/mdev-repos/api_bazar__ejercicio_curso_todocode)
 
 [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mdev-repos/api_bazar__ejercicio_curso_todocode)
+[![API Live](https://img.shields.io/badge/API%20Live-46E3B7?style=flat-square&logo=render&logoColor=white)](https://api-bazar-ejercicio-curso-todocode.onrender.com)
 [![Front Demo](https://img.shields.io/badge/Front%20Demo-00C853?style=flat-square&logo=rocket)](https://mdev-repos.github.io/front_bazar__curso_todocode/)
 
-Sistema de gestión de venta más complejo (múltiples entidades, lógica de negocio de ventas/stock) que ferretería, lo que me da la posibilidad de expandirlo con tecnologías más desafiantes. Va a ser mi proyecto de referencia: cada tecnología nueva del roadmap se incorpora acá como una iteración documentada, en vez de quedar dispersa en mini-proyectos sueltos.
-Backend corriendo en local por ahora — el deploy (Render + PostgreSQL) es el próximo paso.
+API REST para la gestión de ventas de un bazar: productos, clientes y ventas relacionados
+entre sí, con reportes de negocio (bajo stock, monto vendido por fecha, venta más alta).
+El modelado agrega una entidad `SaleItem` no pedida por la consigna, necesaria para
+resolver correctamente la relación muchos-a-muchos entre venta y producto con datos
+propios (cantidad, precio unitario, subtotal).
+
+Construido con **Java 25 + Spring Boot 4**, arquitectura en capas (Controller → Service
+→ Repository) con **DTOs + Mapper**, manejo centralizado de excepciones (`ProblemDetail`
+/ RFC 7807), y refactor completo a **programación funcional** (Streams). Dockerizado
+(`Dockerfile` + `docker-compose.yml`) y deployado de punta a punta: backend en Render,
+base de datos en Neon (PostgreSQL), front propio consumiéndolo en vivo desde GitHub Pages.
 
 <br>
 
@@ -173,6 +183,8 @@ Backend corriendo en local por ahora — el deploy (Render + PostgreSQL) es el p
 
 <br>
 
+<div align="center">
+
 <details>
 <summary><strong>📚 Proyectos Universitarios | Academic Projects</strong> (requeridos por la carrera)</summary>
 
@@ -180,21 +192,35 @@ Backend corriendo en local por ahora — el deploy (Render + PostgreSQL) es el p
 
 [![Clínica SePrise App](./assets/Clinica-Card.png)](https://github.com/mdev-repos/TSDS-PP2--ClinicaSePriseApp--Desktop--CSharp_NET)
 
+<div align="left">
+
 [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mdev-repos/TSDS-PP2--ClinicaSePriseApp--Desktop--CSharp_NET)
+
+</div>
 
 <br>
 
 [![Club Deportivo Mobile](./assets/ClubMobile-Card.png)](https://github.com/mdev-repos/TSDS-DAM--ClubDeportivoApp--Mobile--Kotlin_AndroidStudio)
 
+<div align="left">
+
 [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mdev-repos/TSDS-DAM--ClubDeportivoApp--Mobile--Kotlin_AndroidStudio)
+
+</div>
 
 <br>
 
 [![Club Deportivo Desktop](./assets/ClubDesktop-Card.png)](https://github.com/mdev-repos/TSDS-DSOO--clubDeportivoApp--Desktop--CSharp_NET)
 
+<div align="left">
+
 [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mdev-repos/TSDS-DSOO--clubDeportivoApp--Desktop--CSharp_NET)
 
+</div>
+
 </details>
+
+</div>
 
 <br>
 
