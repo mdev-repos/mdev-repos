@@ -22,31 +22,35 @@
 </div>
 <div align="justify">
   <p>
-    Desarrollador backend enfocado en <strong>Java + Spring Boot</strong>. Estoy terminando la Tecnicatura en
-    Desarrollo de Software (5 materias restantes) y sumando, en paralelo, un roadmap propio de especialización Backend con Java (programación funcional, microservicios, Spring Security, testing, Spring AI, y mucho más!).
+    Desarrollador de software enfocado en backend dentro del ecosistema <strong>Java + Spring Boot</strong>. Estoy terminando la Tecnicatura en
+    Desarrollo de Software (5 materias restantes) y sumando, en paralelo, un roadmap propio de especialización backend con Java (microservicios con Spring Cloud, Spring Security, testing, Spring AI, y mucho más!).
   </p>
   <p>
-    Como diferencial, tengo formación y práctica real en <strong>Mainframe IBM</strong> (COBOL, JCL, DB2, CICS),
-    completada en CODEKI | UBA trabajando contra mainframes reales 24/7. Es una combinación poco común que me permite entender sistemas backend tanto modernos como legacy/transaccionales.
+    Mi diferencial no es solo saber programar. En mis proyectos de la carrera llevo adelante procesos completos de <strong>análisis y diseño</strong> (relevamiento de requerimientos, DFD, diagramas de casos de uso, modelado de datos) antes de escribir una sola línea de código - algo poco habitual en un perfil con mi experiencia, que suele arrancar directo en la etapa de desarrollo.
   </p>
   <p>
-    Todavía no tengo experiencia laboral formal, así que estoy construyendo evidencia práctica: proyectos propios
-    documentados de punta a punta (diseño, código, tests, deploy).
+    A eso sumo formación y práctica real en <strong>Mainframe IBM</strong> (COBOL, JCL, DB2, CICS), completada en 7 meses de trabajo intensivo con los profesionales de CODEKI | UBA contra mainframes reales 24/7. Es una combinación poco común que me permite entender tanto sistemas backend modernos como legacy/transaccionales.
+  </p>
+  <p>
+    Todavía no tengo experiencia laboral formal, así que construyo evidencia práctica: proyectos propios
+    documentados de punta a punta (análisis, diseño, código, tests, deploy) y desarrollos freelance para terceros.
   </p>
   <hr>
   <p>
-    Backend developer focused on <strong>Java + Spring Boot</strong>. I'm finishing my Software Development degree
-    (5 courses left) while following my own Backend specialization roadmap with Java (functional programming,
-    microservices, Spring Security, testing, Spring AI, and much more!).
+    Software developer focused on backend within the <strong>Java + Spring Boot</strong> ecosystem. I'm finishing my Software Development degree
+    (5 courses left) while following my own backend specialization roadmap with Java (microservices with Spring Cloud, Spring Security, testing, Spring AI, and much more!).
   </p>
   <p>
-    As a differentiator, I have real training and hands-on practice in <strong>IBM Mainframe</strong> (COBOL, JCL,
-    DB2, CICS), completed at CODEKI | UBA working against real 24/7 mainframes. It's an uncommon combination that
+    My differentiator isn't just knowing how to code: in my degree projects I carry out full <strong>analysis and design</strong> processes (requirements gathering, DFDs, use case diagrams, data modeling) before writing a single line of code — something uncommon for a Trainee/Jr profile, which usually starts straight at the development stage.
+  </p>
+  <p>
+    On top of that, I have real training and hands-on practice in <strong>IBM Mainframe</strong> (COBOL, JCL,
+    DB2, CICS), completed over 7 months of intensive work with the professionals at CODEKI | UBA against real 24/7 mainframes. It's an uncommon combination that
     helps me understand both modern and legacy/transactional backend systems.
   </p>
   <p>
-    I don't have formal work experience yet, so I'm building practical evidence instead: fully documented personal
-    projects (design, code, tests, deploy).
+    I don't have formal work experience yet, so I build practical evidence instead: fully documented personal
+    projects (analysis, design, code, tests, deploy) and freelance work for third parties.
   </p>
 </div>
 
@@ -65,10 +69,17 @@
 <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white">
+<img src="https://img.shields.io/badge/OAuth2-3C3C3D?style=flat-square&logo=auth0&logoColor=white">
+<img src="https://img.shields.io/badge/Lombok-BC0031?style=flat-square">
+<img src="https://img.shields.io/badge/MapStruct-3A3A3A?style=flat-square">
 <br>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white">
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white">
 <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white">
+<img src="https://img.shields.io/badge/Mockito-78A641?style=flat-square">
+<img src="https://img.shields.io/badge/Testcontainers-1A1A1A?style=flat-square&logo=testcontainers&logoColor=white">
+<img src="https://img.shields.io/badge/REST_Assured-3A3A3A?style=flat-square">
 
   <h4><strong>[ Mainframe ] [ IBM ]</strong></h4>
 
@@ -93,11 +104,12 @@
 <div align="center">
 
 <details>
-<summary><strong>🧩 Otras tecnologías (facultad) | Other technologies (coursework)</strong></summary>
+<summary><strong>🧩 Otras tecnologías | Other technologies</strong></summary>
 <br>
 
 <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white">
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white">
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white">
 <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white">
 <br>
@@ -105,6 +117,10 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E">
 <img src="https://img.shields.io/badge/Node%20js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white">
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white">
 <img src="https://img.shields.io/badge/NUnit-349C43?style=flat-square">
@@ -122,7 +138,16 @@
 
 </div>
 
-> Mi proyecto personal más actual — el que hoy refleja la punta de mis capacidades. Cada tecnología nueva que incorporo a mi roadmap (programación funcional → microservicios | Spring Cloud → Spring Security → testing → Spring AI) se documenta acá como una iteración real, en vez de quedar dispersa en mini-proyectos sueltos (los que suelo subir a gitlab).
+> En desarrollo, aplicando lo último que sumé a mi roadmap (Spring Security). Va a ser mi primera aplicación real pensada para llegar a producción y uso público, no un ejercicio de práctica.
+
+![GymApp](./assets/GymApp-Card.png)
+
+API REST para aplicación multiplataforma web/mobile pensada para organizar y ejecutar
+macrociclos y mesociclos de entrenamiento en el gimnasio. Sin repositorio público todavía.
+
+<br>
+
+> Mientras tanto, el proyecto con código visible que mejor refleja mi nivel actual es **Bazar**. Cada tecnología nueva que incorporo a mi roadmap (programación funcional → microservicios | Spring Cloud → Spring Security → testing → Spring AI) se documenta acá como una iteración real, en vez de quedar dispersa en mini-proyectos sueltos.
 
 [![Bazar](./assets/Bazar-Card.png)](https://github.com/mdev-repos/api_bazar__ejercicio_curso_todocode)
 
@@ -148,26 +173,26 @@ base de datos en Neon (PostgreSQL), front propio consumiéndolo en vivo desde Gi
 
 ## 💼 Proyectos Destacados | Featured Projects
 
+Serie de proyectos que demuestran mis habilidades técnicas y blandas para el desarrollo de software de calidad.
+
 </div>
 
-[![Ferretería API](./assets/Ferreteria-Card.png)](https://github.com/mdev-repos/api_ferreteria__prueba_tecnica_todocode)
+[![Nativo](./assets/Nativo-Card.png)](https://github.com/mdev-repos/api_nativo_banco_rural__proyecto_igrowker)
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mdev-repos/api_ferreteria__prueba_tecnica_todocode)
-[![API Live](https://img.shields.io/badge/API%20Live-46E3B7?style=flat-square&logo=render&logoColor=white)](https://api-ferreteria-prueba-tecnica-todocode.onrender.com)
-[![Front Demo](https://img.shields.io/badge/Front%20Demo-00C853?style=flat-square&logo=rocket)](https://mdev-repos.github.io/front_ferreteria__prueba_tecnica_todocode/)
-
-<br>
-
-[![Nativo](./assets/Nativo-Card.png)](https://github.com/mdev-repos/Nativo-Banco-Rural-project)
-
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mdev-repos/Nativo-Banco-Rural-project)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mdev-repos/api_nativo_banco_rural__proyecto_igrowker)
 [![Demo](https://img.shields.io/badge/Demo-00C853?style=flat-square&logo=rocket)](https://nativo.netlify.app/)
 
 <br>
 
-[![ECO Sistema](./assets/ECOSistema-Card.png)](https://github.com/mdev-repos/EcoSistema-WebApp-v01)
+[![ECO Sistema](./assets/ECOSistema-Card.png)](https://github.com/mdev-repos/api_ecosistema__proyecto_semillero_latam)
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mdev-repos/EcoSistema-WebApp-v01)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mdev-repos/api_ecosistema__proyecto_semillero_latam)
+
+<br>
+
+[![Clínica SePrise App](./assets/Clinica-Card.png)](https://github.com/mdev-repos/desktop_app_clinica_seprise__proyecto_tecnicatura)
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mdev-repos/desktop_app_clinica_seprise__proyecto_tecnicatura)
 
 <br>
 
@@ -175,48 +200,54 @@ base de datos en Neon (PostgreSQL), front propio consumiéndolo en vivo desde Gi
 
 ## 🖥️ Mainframe
 
+El proyecto que demuestra mi diferencial con tecnologías IBM Mainframe.
+
 </div>
 
-[![CODEKI | UBA](./assets/Codeki-Card.png)](https://github.com/mdev-repos/CODEKI-UBA-DesarrolladorCOBOL)
+[![CODEKI | UBA](./assets/Codeki-Card.png)](https://github.com/mdev-repos/formacion_desarrollador_cobol_mainframe__codeki_uba)
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mdev-repos/CODEKI-UBA-DesarrolladorCOBOL)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mdev-repos/formacion_desarrollador_cobol_mainframe__codeki_uba)
 
 <br>
 
 <div align="center">
 
 <details>
-<summary><strong>📚 Proyectos Universitarios | Academic Projects</strong> (requeridos por la carrera)</summary>
+<summary><strong>📚 Proyectos Formativos | Academic Projects</strong></summary>
 
 <br>
 
-[![Clínica SePrise App](./assets/Clinica-Card.png)](https://github.com/mdev-repos/TSDS-PP2--ClinicaSePriseApp--Desktop--CSharp_NET)
+[![Ferretería API](./assets/Ferreteria-Card.png)](https://github.com/mdev-repos/api_ferreteria__prueba_tecnica_todocode)
 
 <div align="left">
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mdev-repos/TSDS-PP2--ClinicaSePriseApp--Desktop--CSharp_NET)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mdev-repos/api_ferreteria__prueba_tecnica_todocode)
+[![API Live](https://img.shields.io/badge/API%20Live-46E3B7?style=flat-square&logo=render&logoColor=white)](https://api-ferreteria-prueba-tecnica-todocode.onrender.com)
+[![Front Demo](https://img.shields.io/badge/Front%20Demo-00C853?style=flat-square&logo=rocket)](https://mdev-repos.github.io/front_ferreteria__prueba_tecnica_todocode/)
 
 </div>
 
 <br>
 
-[![Club Deportivo Mobile](./assets/ClubMobile-Card.png)](https://github.com/mdev-repos/TSDS-DAM--ClubDeportivoApp--Mobile--Kotlin_AndroidStudio)
+[![Club Deportivo Mobile](./assets/ClubMobile-Card.png)](https://github.com/mdev-repos/mobile_app_club_deportivo__proyecto_tecnicatura)
 
 <div align="left">
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mdev-repos/TSDS-DAM--ClubDeportivoApp--Mobile--Kotlin_AndroidStudio)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mdev-repos/mobile_app_club_deportivo__proyecto_tecnicatura)
 
 </div>
 
 <br>
 
-[![Club Deportivo Desktop](./assets/ClubDesktop-Card.png)](https://github.com/mdev-repos/TSDS-DSOO--clubDeportivoApp--Desktop--CSharp_NET)
+[![Club Deportivo Desktop](./assets/ClubDesktop-Card.png)](https://github.com/mdev-repos/desktop_app_club_deportivo__proyecto_tecnicatura)
 
 <div align="left">
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mdev-repos/TSDS-DSOO--clubDeportivoApp--Desktop--CSharp_NET)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mdev-repos/desktop_app_club_deportivo__proyecto_tecnicatura)
 
 </div>
+
+
 
 </details>
 
