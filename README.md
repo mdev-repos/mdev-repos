@@ -191,25 +191,18 @@ Serie de proyectos que demuestran mis habilidades técnicas y blandas para el de
 
 </div>
 
-> **Bazar** es el proyecto con código visible que mejor refleja mi nivel actual: está publicado y desplegado, y sigue recibiendo mejoras. Parte de un ejercicio práctico (TodoCode Academy) que llevé más lejos para demostrar mis habilidades técnicas, el stack que domino y mis prácticas de análisis y desarrollo.
+> **CampusGate** se encuentra en desarrollo. Es el proyecto con el que consolido **Spring Security**: lo construyo paso a paso con las prácticas actuales (Spring Boot 4 y Spring Security 7) y no con el código que trae el curso, dejando documentada cada decisión de diseño.
 
-[![Bazar](./assets/Bazar-Card.png)](https://github.com/mdev-repos/api_bazar__ejercicio_curso_todocode)
+![CampusGate](./assets/CampusGate-Card.png)
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mdev-repos/api_bazar__ejercicio_curso_todocode)
-[![API Live](https://img.shields.io/badge/API%20Live-46E3B7?style=flat-square&logo=render&logoColor=white)](https://api-bazar-ejercicio-curso-todocode.onrender.com)
-[![Front Demo](https://img.shields.io/badge/Front%20Demo-00C853?style=flat-square&logo=rocket)](https://mdev-repos.github.io/front_bazar__curso_todocode/)
+API REST de una plataforma educativa (alumnos, profesores y cursos) con **seguridad stateless**: usuarios, roles y permisos modelados desde cero, autenticación con **JWT** y, más adelante, login social con **OAuth2**. Construida con **Java 25 + Spring Boot 4 + Spring Security 7 + MySQL**.
 
-API REST para la gestión de ventas de un bazar: productos, clientes y ventas relacionados
-entre sí, con reportes de negocio (bajo stock, monto vendido por fecha, venta más alta).
-El modelado agrega una entidad `SaleItem` no pedida por la consigna, necesaria para
-resolver correctamente la relación muchos-a-muchos entre venta y producto con datos
-propios (cantidad, precio unitario, subtotal).
-
-Construido con **Java 25 + Spring Boot 4**, arquitectura en capas (Controller → Service
-→ Repository) con **DTOs + Mapper**, manejo centralizado de excepciones (`ProblemDetail`
-/ RFC 7807), y refactor completo a **programación funcional** (Streams). Dockerizado
-(`Dockerfile` + `docker-compose.yml`) y deployado de punta a punta: backend en Render,
-base de datos en Neon (PostgreSQL), front propio consumiéndolo en vivo desde GitHub Pages.
+- **Ya implementado**: modelo de seguridad (permisos y roles como enums, usuarios con flags de cuenta), `UserDetailsService`, emisión y validación de JWT con Nimbus (resource server nativo de Spring), cadena de filtros stateless con *deny by default* y respuestas 401 y 403 en formato `ProblemDetail`.
+- **En camino**:
+  - Login con `AuthenticationManager` y primer administrador creado por *seed* (idempotente y con *fail fast* si falta configuración).
+  - CRUD protegido con `@PreAuthorize` por permiso y reglas de pertenencia (un profesor edita solo sus cursos).
+  - Firma asimétrica (RS256 + JWKS), refresh tokens y login social con OAuth2.
+  - Dockerización y tests.
 
 <br>
 
@@ -247,13 +240,32 @@ Sistema de gestión de consultorios médicos (turnos, historia clínica, insumos
 
 <div align="left">
 
+[![Bazar](./assets/Bazar-Card.png)](https://github.com/mdev-repos/api_bazar__ejercicio_curso_todocode)
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mdev-repos/api_bazar__ejercicio_curso_todocode)
+[![API Live](https://img.shields.io/badge/API%20Live-46E3B7?style=flat-square&logo=render&logoColor=white)](https://api-bazar-ejercicio-curso-todocode.onrender.com)
+[![Front Demo](https://img.shields.io/badge/Front%20Demo-00C853?style=flat-square&logo=rocket)](https://mdev-repos.github.io/front_bazar__curso_todocode/)
+
+API REST para la gestión de ventas de un bazar: productos, clientes y ventas relacionados
+entre sí, con reportes de negocio (bajo stock, monto vendido por fecha, venta más alta).
+Parte de un ejercicio práctico de TodoCode Academy que llevé más lejos de lo pedido: el
+modelado agrega una entidad `SaleItem` no pedida por la consigna, necesaria para
+resolver correctamente la relación muchos-a-muchos entre venta y producto con datos
+propios (cantidad, precio unitario, subtotal).
+
+Construido con **Java 25 + Spring Boot 4**, arquitectura en capas (Controller → Service
+→ Repository) con **DTOs + Mapper**, manejo centralizado de excepciones (`ProblemDetail`
+/ RFC 7807), y refactor completo a **programación funcional** (Streams). Dockerizado
+(`Dockerfile` + `docker-compose.yml`) y deployado de punta a punta: backend en Render,
+base de datos en Neon (PostgreSQL), front propio consumiéndolo en vivo desde GitHub Pages.
+
+<br>
+
 [![Ferretería API](./assets/Ferreteria-Card.png)](https://github.com/mdev-repos/api_ferreteria__prueba_tecnica_todocode)
 
 [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mdev-repos/api_ferreteria__prueba_tecnica_todocode)
-[![API Live](https://img.shields.io/badge/API%20Live-46E3B7?style=flat-square&logo=render&logoColor=white)](https://api-ferreteria-prueba-tecnica-todocode.onrender.com)
-[![Front Demo](https://img.shields.io/badge/Front%20Demo-00C853?style=flat-square&logo=rocket)](https://mdev-repos.github.io/front_ferreteria__prueba_tecnica_todocode/)
 
-API REST de gestión de una ferretería (prueba técnica de TodoCode Academy) con Spring Boot, JPA y Docker, más un front en JavaScript vanilla funcionando en vivo. Es la antecesora de Bazar, que retoma la idea con un modelo mucho más complejo.
+API REST de gestión de una ferretería (prueba técnica de TodoCode Academy) con Spring Boot, JPA, DTOs y manejo centralizado de errores (`ProblemDetail`), dockerizada para correrla en local con Docker Compose (el README del repositorio explica cómo levantarla). Es la antecesora de Bazar, que retoma la idea con un modelo mucho más complejo. Ya no está desplegada: Bazar la supera y es el que mantiene el despliegue de punta a punta.
 
 <br>
 
