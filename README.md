@@ -23,7 +23,7 @@
 
 Soy desarrollador de software, enfocado en el backend y el diseño de soluciones. Trabajo sobre todo con Java y Spring Boot, y además hice una formación intensiva de Mainframe IBM en CODEKI | UBA, utilizando COBOL, JCL, DB2 y CICS sobre equipos reales. Hoy desarrollo junto con la IA como herramienta, pero el diseño y las decisiones son mías.
 
-Estoy terminando la Tecnicatura en Desarrollo de Software, me faltan cinco materias, y todavía no tengo experiencia laboral formal, así que lo que puedo mostrar es lo que construí. Busco mi primera oportunidad, tanto en equipos de Java como de Mainframe.
+Estoy terminando la Tecnicatura en Desarrollo de Software, me faltan cinco materias, y todavía no tengo experiencia formal como desarrollador, así que lo que puedo mostrar es lo que construí. Busco mi primera oportunidad, tanto en equipos de Java como de Mainframe.
 
 </div>
 
@@ -35,6 +35,8 @@ Estoy terminando la Tecnicatura en Desarrollo de Software, me faltan cinco mater
 <div align="justify">
 
 Lo que más me gusta es entender qué necesita un cliente, pensar cómo resolverlo y construirlo hasta que funcione. Eso es lo que muestran los proyectos de abajo. [CampusGate](https://mdev-repos.github.io/front_campusgate__proyecto_demostracion/), por ejemplo, es una API con seguridad real que está publicada, y se puede probar desde el navegador sin instalar nada. [Urbana Cult](https://mdev-repos.github.io/prototipo_urbana_cult_proyecto_tecnicatura/), el proyecto final de Ingeniería de Software que hicimos en equipo, me sirvió para mostrar la otra mitad, la que va antes del código. Partimos de un caso de negocio, una red de centros culturales que necesitaba repartir automáticamente cada cobro entre el centro, el artista y la red, y yo me concentré en el split de pagos, desde los requerimientos hasta un prototipo que se puede recorrer en el navegador.
+
+[MejorAndo](https://github.com/mdev-repos/mejorando-app) es mi primera aplicación pensada para uso público. La armé de punta a punta, desde el diseño hasta la publicación, para practicar lo que va más allá del backend, y la desarrollé junto con la IA dejando cada decisión por escrito.
 
 Y la verdad es que me divierte desarrollar. Cuando no estoy con un proyecto personal, de la facultad o freelance, sigo aprendiendo cosas por gusto. Ahora, por ejemplo, estoy haciendo un videojuego con Java y LibGDX, que no me lo pide ningún trabajo y aun así me engancha.
 
@@ -78,6 +80,9 @@ Las tecnologías que uso en mis proyectos, organizadas por área.
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" height="24">
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" height="24">
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" height="24">
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" height="24">
+<img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" alt="PWA" height="24">
+<img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest" height="24">
 
   <h4><strong>[ Mainframe ] [ IBM ]</strong></h4>
 
@@ -118,6 +123,7 @@ Las tecnologías que uso en mis proyectos, organizadas por área.
 <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render" height="24">
 <img src="https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=black" alt="Neon" height="24">
 <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white" alt="GitHub Pages" height="24">
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" height="24">
 
 </div>
 
@@ -129,6 +135,34 @@ Las tecnologías que uso en mis proyectos, organizadas por área.
 
 Proyectos propios que estoy construyendo en este momento.
 
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/mdev-repos/mejorando-app"><img src="./assets/MejorAndo-Card.png" alt="MejorAndo" /></a>
+</div>
+
+<br>
+
+<a href="https://github.com/mdev-repos/mejorando-app"><img src="https://img.shields.io/badge/Repositorio-181717?style=flat-square&logo=github&logoColor=white" alt="Repositorio de MejorAndo" height="24"></a>
+<a href="https://mdev-repos.github.io/mejorando-app/"><img src="https://img.shields.io/badge/Probar%20la%20app-FF7A45?style=flat-square&logo=githubpages&logoColor=white" alt="Probar la app MejorAndo" height="24"></a>
+<a href="https://mdev-repos.github.io/mejorando-landing/"><img src="https://img.shields.io/badge/Sitio-222222?style=flat-square&logo=githubpages&logoColor=white" alt="Sitio de MejorAndo" height="24"></a>
+
+[Ver más sobre el diseño](https://github.com/mdev-repos/mejorando-app#readme)
+
+<div align="justify">
+
+MejorAndo está en beta y se puede probar desde el celular, sin cuenta. Nace de mi propio proceso de cambio físico, cuando bajé 20 kg llevando todo en papel y hojas de cálculo. Es una aplicación instalable que reproduce ese seguimiento para que otros puedan lograrlo. Su primer módulo, EntrenAndo, permite planificar macrociclos y mesociclos, entrenar ejercicio por ejercicio con descansos que avisan con color, sonido y vibración, y comparar cada serie con la de la vez anterior. Funciona sin conexión y su código es libre.
+
+La construí de punta a punta junto con un agente de IA, como práctica de diseño, arquitectura, UX/UI, pruebas e integración continua. Está hecha con React, TypeScript y una PWA con base de datos local en IndexedDB, tiene 74 pruebas automáticas y cada decisión de diseño queda registrada en el repositorio. Yo defino qué se hace y por qué. Falta sumar la comparación entre ejecuciones y los módulos de alimentación y pasos.
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="./assets/separator.svg" alt="" />
 </div>
 
 <br>
@@ -150,30 +184,6 @@ NodoBank se encuentra en desarrollo. Es la versión con dominio propio del proye
 Es un core bancario simplificado, con cuentas, transacciones (depósitos, retiros y transferencias) y aviso por email de cada operación confirmada. Lo armo como un monorepo de microservicios con Java 25, Spring Boot 4 y Spring Cloud. Hoy están terminados Eureka Server, Config Server y accounts-sv, y estoy trabajando en transactions-sv. Lo que sigue es la seguridad con Spring Security y JWT, las notificaciones, el API Gateway, Docker y los tests.
 
 Además, estoy aprendiendo Go para reescribir en ese lenguaje el servicio que más tráfico recibe y comunicarlo con los servicios en Java mediante gRPC, midiendo con métricas y pruebas de carga qué cambia en rendimiento. Antes de seguir, estoy escribiendo el documento de diseño y arquitectura que fija cómo queda el sistema completo.
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="./assets/separator.svg" alt="" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="./assets/GymApp-Card.png" alt="GymApp" />
-</div>
-
-<br>
-
-<div align="justify">
-
-"GymApp" se encuentra en fase de diseño. Va a ser mi primera aplicación personal real, pensada para llegar a producción y uso público, y no es un ejercicio de práctica ni un trabajo freelance.
-
-Nace de mi propio proceso de cambio fisico entrenando con planillas de papel. Será una aplicación instalable en el celular que reproduce ese seguimiento para que otros puedan lograrlo. Planificar macrociclos y mesociclos, entrenar ejercicio por ejercicio con descansos y cronómetro, y comparar cada serie con la de la vez anterior. Funciona también sin conexión en el gimnasio, y más adelante sumará control de peso, medidas y nutrición. Va acompañada de una landing con mi historia y recomendaciones de profesionales para aprender a entrenar.
-
-La estoy diseñando y construyendo junto con un agente de IA, como práctica de trabajar con documentación clara, decisiones registradas, pruebas e integración continua desde el primer día. La parte de servidor va con Java, Spring Boot y PostgreSQL. Todavía no tiene repositorio público, lo voy a abrir cuando haya una primera versión que se pueda desplegar.
 
 </div>
 
